@@ -1,0 +1,31 @@
+header {
+  background-image: url('media/medical_physics_3_1.png.webp');
+  background-size: cover; 
+  background-position: center center; 
+  background-repeat: no-repeat; 
+
+  min-height: 200px; 
+  
+}
+
+
+p{
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: medium;
+    
+}
+.ibody{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+footer{
+    height: 100px;
+    background-color: #055e9d;
+    padding-top: 30px;
+    text-align: center;
+    
+    color: azure;
+    margin-top: auto;
+}
