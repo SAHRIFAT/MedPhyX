@@ -20,6 +20,18 @@ p{
     padding-top: 40px;
     padding-bottom: 40px;
 }
+/* feature */
+.feature{
+    padding-top: 40px;
+    padding-bottom: 20px;
+
+}
+/* blog post */
+.bp{
+    margin-top:40px ;
+    margin-bottom: 40px;
+
+}
 footer{
     height: 100px;
     background-color: #055e9d;
