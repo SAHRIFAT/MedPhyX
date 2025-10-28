@@ -23,13 +23,14 @@ p{
 /* feature */
 .feature{
     padding-top: 40px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 
 }
 /* blog post */
-.bp{
+ .bp{
     margin-top:40px ;
-    margin-bottom: 40px;
+    padding-top:50px;
+    
 
 }
 footer{
