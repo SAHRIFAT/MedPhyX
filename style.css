@@ -40,5 +40,13 @@ footer{
     text-align: center;
     
     color: azure;
-    margin-top: auto;
+     margin-top: auto;
+
+}
+/* btn */
+.but{
+    width: 100%;
+    background-color:	#1877F2;
+    color: aliceblue;
+
 }
